@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": "1746213390116",
+    "title": "Remera Negra",
+    "description": "Remera básica negra",
+    "code": "RN001",
+    "price": 3000,
+    "status": true,
+    "stock": 10,
+    "category": "indumentaria",
+    "thumbnails": [
+      "img/remera-negra.png"
+    ]
+  },
+  {
+    "id": "1746213950090",
+    "title": "Shorts marron",
+    "price": "4000"
+  },
+  {
+    "id": "1746213991399",
+    "title": "remera blanca",
+    "price": "2000"
+  },
+  {
+    "id": "1746215119244",
+    "title": "honda tornado 250cc",
+    "description": "moto 250cc",
+    "code": "26156156023",
+    "price": "50000000",
+    "stock": "4",
+    "category": "motos",
+    "thumbnail": "img/tornado250cc"
+  },
+  {
+    "id": "1746215801883",
+    "title": "campera de cuero",
+    "description": "cuero sintetico",
+    "code": "61651653",
+    "price": "80000",
+    "stock": "8",
+    "category": "indumentaria",
+    "thumbnail": "img/campera"
+  }
+]
